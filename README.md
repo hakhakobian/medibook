@@ -9,7 +9,7 @@ It's important that the backend and the database are set up in a way that makes 
 I have set a deadline of two days to get the first version of the dashboard ready, with plans to add more features later on.
 During the project planning, the need for database requirements came up. I have decided to use  relational databases since the project is intended to be scalable, involving numerous tables that need to share information between each other, establishing both one-to-many and many-to-many connections.
 As a programming principle was chosen OOP with the same reason, to make it expandable anytime.
-So for the first I have registered rest routes to provide connection and data receiving between backend and frontend. Some of the routes are:
+So for the first I have registered rest routes to provide connection and data receiving between backend and frontend.
 I decided to use OOP as the programming principle to make it easy to add more things later on. I set up rest routes to connect the backend and frontend and share data. Here are some of the routes:
 
 GET method
